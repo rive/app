@@ -2,7 +2,7 @@
   "name": "rive",
   "productName": "Rive",
   "version": "1.0.0",
-  "description": "Design system development tool for designers",
+  "description": "design system development tool for designers",
   "scripts": {
     "build": "concurrently \"yarn build-main\" \"yarn build-renderer\"",
     "build-dll": "cross-env NODE_ENV=development webpack --config ./configs/webpack.config.renderer.dev.dll.babel.js --colors",

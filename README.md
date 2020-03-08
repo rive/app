@@ -1,2 +1,3 @@
 # rive
-App to create design system without dealing with JavaScript
+
+design system development tool for designers
