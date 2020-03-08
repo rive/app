@@ -102,7 +102,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guoyunhe/rive.git"
+    "url": "git+https://github.com/rive/app.git"
   },
   "author": {
     "name": "Guo Yunhe",
@@ -111,7 +111,7 @@
   },
   "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/guoyunhe/rive/issues"
+    "url": "https://github.com/rive/app/issues"
   },
   "keywords": [
     "design",
@@ -125,7 +125,7 @@
     "hot",
     "reload"
   ],
-  "homepage": "https://github.com/guoyunhe/rive#readme",
+  "homepage": "https://github.com/rive/app#readme",
   "jest": {
     "testURL": "http://localhost/",
     "moduleNameMapper": {
